@@ -10,7 +10,7 @@ import numpy
 get the input
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula.JPG)
 ### Step 4:
 print the output
 
