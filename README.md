@@ -10,13 +10,13 @@ import numpy
 get the input
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula.jpg)
 ### Step 4:
 print the output
 
 ### Step 5:
 End Program
- 
+
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
